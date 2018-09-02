@@ -16,7 +16,7 @@ Into this:
 
 ## Install
 ```bash
-$ npm install markdown-it-fontawesome --save
+$ npm install @gerhobbelt/markdown-it-fontawesome --save
 ```
 
 
@@ -27,8 +27,8 @@ $ npm install markdown-it-fontawesome --save
 ### Enable plugin
 
 ```js
-var md = require('markdown-it');
-var fa = require('markdown-it-fontawesome');
+var md = require('@gerhobbelt/markdown-it');
+var fa = require('@gerhobbelt/markdown-it-fontawesome');
 
 md().use(fa);
 ```
