@@ -4,7 +4,7 @@ var describe = require('mocha').describe;
 var it = require('mocha').it;
 var before = require('mocha').before;
 var expect = require('chai').expect;
-var md = require('markdown-it')();
+var md = require('@gerhobbelt/markdown-it')();
 var MarkdownFa = require('../index.js');
 
 describe('Font Awesome tests', function () {

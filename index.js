@@ -1,6 +1,6 @@
 'use strict';
 
-var Plugin = require('markdown-it-regexp');
+var Plugin = require('@gerhobbelt/markdown-it-regexp');
 
 module.exports = function fontawesome_plugin(md) {
 	// FA4 style.
