@@ -1,6 +1,6 @@
 {
   "name": "@gerhobbelt/markdown-it-fontawesome",
-  "version": "0.3.0-3",
+  "version": "0.3.0-4",
   "description": "Markdown-it plugin that adds Font Awesome 5 icons support",
   "keywords": [
     "markdown-it-plugin",

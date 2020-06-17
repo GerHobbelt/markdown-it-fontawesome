@@ -1,4 +1,4 @@
-/*! markdown-it-fontawesome 0.3.0-3 https://github.com//GerHobbelt/markdown-it-fontawesome @license MIT */
+/*! markdown-it-fontawesome 0.3.0-4 https://github.com//GerHobbelt/markdown-it-fontawesome @license MIT */
 
 (function (factory) {
   typeof define === 'function' && define.amd ? define(factory) :
