@@ -11,7 +11,7 @@ module.exports = function fontawesome_plugin(md) {
 		}
 	));
 
-    // FA5 style.
+  // FA5 style.
     md.use(Plugin(
         /\:fa([\w])-([\w\-]+)\:/,
         function (match, utils) {
