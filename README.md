@@ -1,4 +1,9 @@
 # markdown-it-fontawesome
+
+[![Build Status](https://img.shields.io/travis/GerHobbelt/markdown-it-fontawesome/master.svg?style=flat)](https://travis-ci.org/GerHobbelt/markdown-it-fontawesome)
+[![NPM version](https://img.shields.io/npm/v/@gerhobbelt/markdown-it-fontawesome.svg?style=flat)](https://www.npmjs.org/package/@gerhobbelt/markdown-it-fontawesome)
+[![Coverage Status](https://img.shields.io/coveralls/GerHobbelt/markdown-it-fontawesome/master.svg?style=flat)](https://coveralls.io/r/GerHobbelt/markdown-it-fontawesome?branch=master)
+
 [Markdown-it][markdown-it] plugin that adds [Font Awesome][fontawesome] icons support.
 
 Turn this:
